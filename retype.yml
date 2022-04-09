@@ -1,0 +1,15 @@
+input: src
+output: public
+url: https://project.docs.devserv.me
+branding:
+  title: DEVserv.ME Projets
+  label: Docs
+links:
+- text: DEVserv.ME Docs
+  link: https://docs.devserv.me
+- text: Charl Cronje
+  link: https://charl-cv.devserv.me
+- text: DEVserv.ME Dashboard
+  link: https://dashboard.devserv.me
+footer:
+  copyright: "webAlly &copy; Copyright {{ year }}. All rights reserved."
