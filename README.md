@@ -1,12 +1,12 @@
 ---
-Title: DEV Projects | DEVserv.ME
+Title: DEV Projects | CRONje.ME
 label: DEV Projects
 order: 200
 authors:
   - name: Charl Cronje
-    email: charl@devserv.me
-    link: https://charl-cv.devserv.me
-    avatar: https://assets.devserv.me/avatars/darker.jpg
+    email: charl@CRONje.ME
+    link: https://charl-cv.CRONje.ME
+    avatar: https://assets.CRONje.ME/avatars/darker.jpg
 tags: [nerdCreations.co.za,webAlly.co.za,scrServ.online,webAlly.ml,HeEPP,DevServ blog]
 ---
 
@@ -22,5 +22,5 @@ tags: [nerdCreations.co.za,webAlly.co.za,scrServ.online,webAlly.ml,HeEPP,DevServ
 
 # GitHub Repos
 
-- This repo will become a sub-module of docs.devserv.me.
+- This repo will become a sub-module of docs.CRONje.ME.
 - Go to [./src/README.md](./src/README.md) for the root of this repo
