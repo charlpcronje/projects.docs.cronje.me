@@ -5,8 +5,8 @@ order: 200
 authors:
   - name: Charl Cronje
     email: charl@CRONje.ME
-    link: https://charl-cv.CRONje.ME
-    avatar: https://assets.CRONje.ME/avatars/darker.jpg
+    link: https://blog.cronje.me
+    avatar: https://assets.cronje.me/avatars/darker.jpg
 tags: [nerdCreations.co.za,webAlly.co.za,scrServ.online,webAlly.ml,HeEPP,DevServ blog]
 ---
 
